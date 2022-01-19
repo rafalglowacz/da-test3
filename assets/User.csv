@@ -1,3 +1,3 @@
-username,password,contact_id
-rafal,secret,1
-rafal2,secret,2
+id,username,password,contact_id
+1,rafal,secret,11
+2,rafal2,secret,12
